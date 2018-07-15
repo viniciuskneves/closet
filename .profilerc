@@ -1,0 +1,14 @@
+# VIM as default editor
+export VISUAL=vim
+export EDITOR="$VISUAL"
+
+# Easily copy and paste content from terminal
+alias xcopy='xclip -selection clipboard'
+alias xpaste='xclip -o'
+
+# AWS keys
+#alias aws_XXX='
+#  export AWS_SECRET_ACCESS_KEY=TODO &&
+#  export AWS_ACCESS_KEY_ID=TODO &&
+#  export AWS_DEFAULT_REGION=us-east-1
+#'
