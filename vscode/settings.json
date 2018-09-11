@@ -1,0 +1,5 @@
+{
+  "window.zoomLevel": -1,
+  "eslint.run": "onSave",
+  "editor.minimap.enabled": false
+}
