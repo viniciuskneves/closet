@@ -1,5 +1,6 @@
 {
   "window.zoomLevel": -1,
   "eslint.run": "onSave",
-  "editor.minimap.enabled": false
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2
 }
